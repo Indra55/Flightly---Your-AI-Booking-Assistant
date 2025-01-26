@@ -1,0 +1,2 @@
+booking_id,confirmation_code,email,destination,date,num_tickets,ticket_class,total_price,loyalty_points,booking_time
+BK-000001,D55B8F3C,abc@gmail.com,berlin,2023-02-10,2,Economy,998,99,2025-01-24 17:43:33
