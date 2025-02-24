@@ -1,6 +1,6 @@
-# FlightAI - Flight Booking and Assistance System
+Flightly - Flight Booking and Assistance System
 
-FlightAI is an intelligent flight booking system designed to help users book flights, check flight availability, and manage seat preferences, meal options, and special requests. The system also integrates a generative AI model to assist users with flight-related queries.
+Flightly is an intelligent flight booking system designed to help users book flights, check flight availability, and manage seat preferences, meal options, and special requests. The system also integrates a generative AI model to assist users with flight-related queries.
 
 ## Features
 - **Flight Database**: Includes flight details, availability, seat preferences, and meal options for multiple destinations.
@@ -23,7 +23,7 @@ Each destination has multiple ticket classes: Economy, Business, and First.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/flightai.git
+    git clone https://github.com/indra55/flightai.git
     cd flightai
     ```
 
