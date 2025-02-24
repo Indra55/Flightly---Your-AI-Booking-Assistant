@@ -105,10 +105,6 @@ Each booking contains the following data:
 - `special_requests`: Any special requests made by the user.
 - `booking_time`: The time the booking was made.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - Uses `google-generativeai` for AI responses.
 - Uses `gradio` for the frontend interface (if applicable).
